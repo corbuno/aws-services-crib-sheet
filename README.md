@@ -10,11 +10,11 @@ Beware that this is not an official list of AWS services. Some services may be m
 
 Categories are indicated per service/feature. Some services like Amazon Redshift might belong to several categories (Analytics, Database), but only one was chosen here.
 
-You can sort the rows by service or service category.
+You can sort the rows by service or service category. You can also filter by category.
 
 ## Certifications
 
-There is also an **unofficial** indication if you should learn the service for a specific AWS certification. Beware that this is likely to be incomplete as certification questions are evolving.
+There is also an **unofficial** indication if you should learn the service for a specific AWS certification, based on information in study guides and people experiences. Beware that this is likely to be incomplete as certification questions are evolving.
 
 You can filter the list of services by certification.
 
